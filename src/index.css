@@ -26,22 +26,22 @@
 }
 
 .violet-gradient {
-  background: #804dee;
-  background: linear-gradient(-90deg, #804dee 0%, rgba(60, 51, 80, 0) 100%);
-  background: -webkit-linear-gradient(-90deg, #804dee 0%, rgba(60, 51, 80, 0) 100%);
+  background: #090d58aa;
+  background: linear-gradient(-90deg, #090d58aa 0%, rgba(60, 51, 80, 0) 100%);
+  background: -webkit-linear-gradient(-90deg, #090d58aa 0%, rgba(60, 51, 80, 0) 100%);
 }
 
 .green-pink-gradient {
   background: #00cea8;
-  background: linear-gradient(90.13deg, #00cea8 1.9%, #bf61ff 97.5%);
-  background: -webkit-linear-gradient(90.13deg, #00cea8 1.9%, #bf61ff 97.5%);
+  background: linear-gradient(90.13deg, #00cea8 1.9%, #0a0110 97.5%);
+  background: -webkit-linear-gradient(90.13deg, #00cea8 1.9%, #0a0011 97.5%);
 }
 
 .orange-text-gradient,
 .green-text-gradient,
 .blue-text-gradient,
 .pink-text-gradient {
-  background: linear-gradient(to top, #f12711, #f5af19);
+  background: linear-gradient(to top, #5cf111, #f5af19);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }

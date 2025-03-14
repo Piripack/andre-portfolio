@@ -14,7 +14,7 @@
 
 .logo:hover,
 .logo.react:hover {
-  filter: drop-shadow(0 0 2em #646cffaa);
+  filter: drop-shadow(0 0 2em #090d58aa);
 }
 
 @keyframes logo-spin {
@@ -44,4 +44,9 @@
   border: 2px solid blue;
   border-radius: 4px;
   padding: 6px 12px;
+}
+
+.text-\[\#915EFF\] {
+  --tw-text-opacity: 1;
+  color: rgb(67 76 101);
 }

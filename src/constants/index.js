@@ -105,7 +105,7 @@ export const projects = [
       { name: "Weather API by API Ninjas", color: "yellow-text-gradient" },
     ],
     image: weatherpedia,
-    source_code_link: "https://github.com/lohitkolluri/WeatherPedia",
+    source_code_link: "https://github.com/AndreRamos/WeatherPedia",
   },
   {
     name: "Terminal Like Portfolio Website",
@@ -117,7 +117,7 @@ export const projects = [
       { name: "Javascript", color: "pink-text-gradient" },
     ],
     image: termpw,
-    source_code_link: "https://github.com/lohitkolluri/lohitkolluri.github.io",
+    source_code_link: "https://github.com/AndreRamos/AndreRamos.github.io",
   },
   {
     name: "Mental Health Fitness Tracker",
@@ -130,7 +130,7 @@ export const projects = [
     ],
     image: mhft,
     source_code_link:
-      "https://github.com/lohitkolluri/mental_health_fitness_tracker",
+      "https://github.com/AndreRamos/mental_health_fitness_tracker",
   },
   {
     name: "PayloadMaster",
@@ -140,7 +140,7 @@ export const projects = [
       { name: "shell", color: "blue-text-gradient" },
     ],
     image: payloadmaster,
-    source_code_link: "https://github.com/lohitkolluri/PayloadMaster",
+    source_code_link: "https://github.com/AndreRamos/PayloadMaster",
   },
   {
     name: "CompileVortex",
@@ -152,7 +152,7 @@ export const projects = [
       { name: "HTML", color: "pink-text-gradient" },
     ],
     image: CompileVortex,
-    source_code_link: "https://github.com/lohitkolluri/CompileVortex",
+    source_code_link: "https://github.com/AndreRamos/CompileVortex",
   },
   {
     name: "Sketcher",
@@ -165,6 +165,6 @@ export const projects = [
     ],
 
     image: sketcher,
-    source_code_link: "https://github.com/lohitkolluri/Image_to_Pencil_Sketch_App",
+    source_code_link: "https://github.com/AndreRamos/Image_to_Pencil_Sketch_App",
   },
 ];
