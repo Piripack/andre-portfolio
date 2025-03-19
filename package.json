@@ -1,7 +1,7 @@
 {
   "name": "Portfolio-Website",
   "private": true,
-  "homepage": "https://Piripack.github.io/andre-portfolio",
+  "homepage": "https://piripack.github.io/andre-portfolio",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
